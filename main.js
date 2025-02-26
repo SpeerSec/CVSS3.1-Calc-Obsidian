@@ -115,7 +115,7 @@ class CVSSCalculatorView extends ItemView {
     vectorEl.style.fontSize = "14px";
     vectorEl.style.cursor = "pointer";
     vectorEl.style.userSelect = "all";
-    vectorEl.style.color = "yellow"
+    vectorEl.style.color = "green"
     
     function updateScore() {
       let score = calculateCVSS(selections);
