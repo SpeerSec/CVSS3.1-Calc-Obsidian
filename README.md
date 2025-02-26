@@ -8,9 +8,9 @@ Git clone to your `YOURVAULT\.obsidian\plugins\`
 So folder structure is:
 
 ```
-.obsidian
-  ↳plugins
-    ↳cvss3.1-calc
+.obsidian/
+  ↳plugins/
+    ↳cvss3.1-calc/
       ↳main.js
       ↳manifest.json
 ```
