@@ -15,3 +15,5 @@ So folder structure is:
 ```
 
 The calculator icon will appear on the left side-bar and then can be accessed at the top-right for the right-sidebar.
+
+Restart your Obsidian app and enable in Settings -> Community Plugins
