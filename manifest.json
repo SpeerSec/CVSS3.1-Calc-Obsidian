@@ -1,0 +1,10 @@
+{
+    "id": "cvss-calc",
+    "name": "cvss3.1 calculator",
+    "version": "0.1.0",
+    "minAppVersion": "1.8.7",
+    "description": "calculates cvss 3.1 for obsidian notes",
+    "author": "Speer",
+    "authorUrl": "https://github.com/SpeerSec",
+    "isDesktopOnly": false
+}
