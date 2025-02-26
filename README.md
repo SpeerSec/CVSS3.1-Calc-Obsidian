@@ -3,7 +3,7 @@ A basic CVSS 3.1 Calculator for Obsidian notes.
 
 # Installation
 
-Git clone to your %YOURVAULT%\.obsidian\plugins\
+Git clone to your `YOURVAULT\.obsidian\plugins\`
 
 So folder structure is:
 
